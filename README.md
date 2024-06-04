@@ -1,7 +1,7 @@
 
 <!-- Hi skid <3 -->
 
-<h2 align="center"><img src="https://s8.gifyu.com/images/979447220829032478.gif" height="25px"> ꧁༒༺༻༒꧂
+<h2 align="center"><img src="https://s8.gifyu.com/images/979447220829032478.gif" height="25px">꧁༒༺༻༒꧂
 𝐑𝟑𝟐𝐖𝐑𝐓𝐱𝐓𝐔𝐍𝐍𝐄𝐋𝐈𝐍𝐆
   ꧁༒༺༻༒꧂<a href="https://discord.gg/onlp"></a></h2>
 
