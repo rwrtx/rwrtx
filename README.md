@@ -1,7 +1,9 @@
 
 <!-- Hi skid <3 -->
 
-<h2 align="center"><img src="https://s8.gifyu.com/images/979447220829032478.gif" height="25px"> ꧁༒༺ 𝐑𝟑𝟐𝐖𝐑𝐓𝐱𝐓𝐔𝐍𝐍𝐄𝐋𝐈𝐍𝐆 ༻༒꧂<a href="https://discord.gg/onlp"></a></h2>
+<h2 align="center"><img src="https://s8.gifyu.com/images/979447220829032478.gif" height="25px"> ꧁༒༺༻༒꧂
+𝐑𝟑𝟐𝐖𝐑𝐓𝐱𝐓𝐔𝐍𝐍𝐄𝐋𝐈𝐍𝐆
+  ꧁༒༺༻༒꧂<a href="https://discord.gg/onlp"></a></h2>
 
 <p align="center">
 
@@ -25,7 +27,8 @@
 
 
 ```
-🟦 Telegram: https://t.me/R32WRT_STORE
+🟦 Telegram Chat : https://t.me/R32WRT_STORE
+🟦 Telegram Grub : http://t.me/PatunganVpsR32Wrt
 ```
 
 [![My Skills](https://skillicons.dev/icons?i=java,linux,js,html,css,python,php,bash,azure,docker,gcp)](https://skillicons.dev)
